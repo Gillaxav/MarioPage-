@@ -65,8 +65,34 @@ video{
     vertical-align:  top;
 }
 
-marioDay{
+.marioDay{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 20px;
     color: crimson;
+}
+
+h3{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: brown 100px ; 
+}
+
+.marioFact{
+    padding: 20px;
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.section{
+    background-color: brown;
+}
+
+article{
+    background-color: brown;
+}
+
+body{
+   background-image:  url("images.jpg");
+  
 }
