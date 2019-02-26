@@ -69,8 +69,9 @@ video{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 20px;
     color: crimson;
+    font-size: 10px;
 }
-
+ 
 h3{
     color: crimson;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
