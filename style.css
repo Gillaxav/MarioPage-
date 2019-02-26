@@ -60,3 +60,13 @@ video{
     width: 100%;
     height: auto;
 }
+.content{
+    display: block;
+    vertical-align:  top;
+}
+
+marioDay{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 20px;
+    color: crimson;
+}
